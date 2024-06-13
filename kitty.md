@@ -16,3 +16,9 @@ ln -s ./kitty-themes/themes/Brogrammer.conf ~/.config/kitty/theme.conf
 # Create a kitty.conf file and add the downloaded theme
 echo "include ./theme.conf" > kitty.conf
 ```
+
+Another way is to type
+```bash
+kitten themes
+```
+Ref: https://sw.kovidgoyal.net/kitty/faq/#how-do-i-change-the-colors-in-a-running-kitty-instance
