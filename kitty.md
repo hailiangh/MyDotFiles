@@ -22,3 +22,6 @@ Another way is to type
 kitten themes
 ```
 Ref: https://sw.kovidgoyal.net/kitty/faq/#how-do-i-change-the-colors-in-a-running-kitty-instance
+
+## Kitty Overview
+https://sw.kovidgoyal.net/kitty/overview/
