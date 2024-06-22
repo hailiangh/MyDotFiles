@@ -11,5 +11,8 @@ make check
 make install
 ```
 
+## An easier way
+https://gist.github.com/ZhaofengWu/f345652e994e3b68c309352a7610460f
+
 ## Troubleshooting
 https://www.drewsilcock.co.uk/compiling-zsh
