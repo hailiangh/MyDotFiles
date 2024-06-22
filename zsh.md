@@ -10,3 +10,6 @@ make
 make check
 make install
 ```
+
+## Troubleshooting
+https://www.drewsilcock.co.uk/compiling-zsh
